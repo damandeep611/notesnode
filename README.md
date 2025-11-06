@@ -22,7 +22,24 @@ Start simple with sticky notes and sketches, then expand into a **node-based can
 - [Postgres + Drizzle](https://orm.drizzle.team/) (Neon.tech) – database (future persistence)  
 - [Better Auth](https://better-auth.com/) – authentication  
  
+## Frontend
 
+### React State Management
+**Path:** `frontend/react/state-management/`
+
+Brief description of what you learned (100-150 words)...
+
+**📖 Articles**
+- [Article title](link)
+
+**🎥 Videos**
+- [Video title](link)
+
+**📚 References**
+- [Docs](link)
+
+**Prerequisites:** `languages/javascript`
+**Related:** `frontend/nextjs/routing-basics`
 ---
 Option A (Table):
    | Category | Project | Tags |
