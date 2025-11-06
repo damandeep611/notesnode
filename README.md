@@ -24,7 +24,13 @@ Start simple with sticky notes and sketches, then expand into a **node-based can
  
 
 ---
-
+Option A (Table):
+   | Category | Project | Tags |
+   |----------|---------|------|
+   | Backend | Kafka | `typescript`, `messaging` |
+   
+   Option B (List):
+   - **Backend** - [Kafka](#kafka) - `typescript` `messaging`
 ## 📦 Getting Started  
 
 Clone the repo and install dependencies:  
